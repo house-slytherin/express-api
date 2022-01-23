@@ -67,7 +67,7 @@ router.post('/tasks', requireToken, (req, res, next) => {
       res.status(201).json({ task: task.toObject() })
     })
     // if an error occurs, pass it off to our error handler
-    // the error handler needs the error message and the `res` object so that it
+    // the error handler needs t,he error message and the `res` object so that it
     // can send an error message back to the client
     .catch(next)
 })
