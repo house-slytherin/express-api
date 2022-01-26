@@ -5,7 +5,7 @@ Have a task you need to complete? Jotit down! This application allows the user t
 ## Important Links
 
 - [Deployed Client](http://house-slytherin.github.io/jotit)
-- [Deployed API]()
+- [Deployed API](https://peaceful-dusk-82634.herokuapp.com/)
 - [Frontend Repository](https://github.com/house-slytherin/project-frontend)
 
 ### Technologies Used
